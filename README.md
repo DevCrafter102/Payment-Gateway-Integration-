@@ -1,10 +1,10 @@
 ## Payment Gateway Integration for Stripe, PayPal, and CoinPayments
 
-### My Contribution
-I developed a comprehensive payment gateway integration system that combines three popular payment processors: Stripe, PayPal, and CoinPayments. The backend is built using Python Django, while the frontend is developed using React.js with Redux.
-
 ### Project Overview
 This project implements a payment gateway integration that supports multiple payment methods, enhancing the payment options available to users. The system facilitates secure transactions and provides a seamless user experience, catering to diverse payment preferences through traditional and cryptocurrency options.
+
+### My Contribution
+I developed a comprehensive payment gateway integration system that combines three popular payment processors: Stripe, PayPal, and CoinPayments. The backend is built using Python Django, while the frontend is developed using React.js with Redux.
 
 ### Tech Stack
 #### Client:
@@ -61,4 +61,9 @@ This project implements a payment gateway integration that supports multiple pay
   - Parameters:
     - `method`: string (Required. paypal or stripe)
     - `productId`: string (Required. Product ID)
+
+### Snapshots:
+![invoices](https://github.com/user-attachments/assets/af25f8bc-65ba-44f9-807e-899198c01a86)
+![payment](https://github.com/user-attachments/assets/98baa5fa-c7c6-4af3-ae1e-bf31d00c0344)
+
 
